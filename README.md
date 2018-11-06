@@ -1,0 +1,2 @@
+# Handwritten-Digits-Recognition
+Implemented logistic regression model and k-Nearest Neighbor (kNN) algorithm for MNIST handwritten digits recognition. The MNIST dataset contains 70,000 images of handwritten digits, out of which 60,000 images are training set and 10,000 images are test set. Each image has 28 × 28 pixels which are considered as the features of the image. The code uses the training set and then uses the results to predict the digits in the test set. 
